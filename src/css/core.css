@@ -47,6 +47,8 @@ ion-icon {
 
 .pl12em {padding-left: 1.2em;}
 .pr12em {padding-right: 1.2em;}
+.pt12em {padding-top: 1.2em;}
+
 .p40 { padding: 40px;}
 .p10 { padding: 10px;}
 
@@ -299,3 +301,4 @@ a.btn:hover{
       margin:0.2em auto;
      }
     } */
+

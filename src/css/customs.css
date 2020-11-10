@@ -1,0 +1,19 @@
+.notif-view-box {
+    width: 100%;
+    background: white;
+    padding: 1.2em;
+    border-radius: 5px;
+}
+
+.payment-box {
+    width: 100%;
+    padding: .7em;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+}
+
+.payment-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 20px;
+}
